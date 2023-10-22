@@ -1,0 +1,14 @@
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfo.cs
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\C++\SOLID\SOLID\bin\Debug\net6.0\SingleReponsibilityPrinciple.exe
+D:\C++\SOLID\SOLID\bin\Debug\net6.0\SingleReponsibilityPrinciple.deps.json
+D:\C++\SOLID\SOLID\bin\Debug\net6.0\SingleReponsibilityPrinciple.runtimeconfig.json
+D:\C++\SOLID\SOLID\bin\Debug\net6.0\SingleReponsibilityPrinciple.dll
+D:\C++\SOLID\SOLID\bin\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.dll
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\refint\SingleReponsibilityPrinciple.dll
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\SingleReponsibilityPrinciple.genruntimeconfig.cache
+D:\C++\SOLID\SOLID\obj\Debug\net6.0\ref\SingleReponsibilityPrinciple.dll

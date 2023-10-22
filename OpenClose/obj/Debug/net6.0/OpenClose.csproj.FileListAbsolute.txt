@@ -1,0 +1,14 @@
+D:\C++\SOLID\OpenClose\bin\Debug\net6.0\OpenClose.exe
+D:\C++\SOLID\OpenClose\bin\Debug\net6.0\OpenClose.deps.json
+D:\C++\SOLID\OpenClose\bin\Debug\net6.0\OpenClose.runtimeconfig.json
+D:\C++\SOLID\OpenClose\bin\Debug\net6.0\OpenClose.dll
+D:\C++\SOLID\OpenClose\bin\Debug\net6.0\OpenClose.pdb
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfoInputs.cache
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfo.cs
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.csproj.CoreCompileInputs.cache
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.dll
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\refint\OpenClose.dll
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.pdb
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\OpenClose.genruntimeconfig.cache
+D:\C++\SOLID\OpenClose\obj\Debug\net6.0\ref\OpenClose.dll
